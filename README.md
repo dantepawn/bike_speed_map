@@ -1,2 +1,4 @@
 # rideMyBike
-heat map of my bike rides from .gpx 
+map of the rolling average speed of some bike rides around berlin
+input : '''.gpx''' and '''.csv''' files uploaded from my polar account
+
