@@ -2,7 +2,7 @@
 map of the rolling average speed of some bike rides around berlin
 input : ``.gpx`` and ``.csv`` files uploaded from my polar account
 
-![output html file](https://github.com/dantepawn/rideMyBike/output.png?raw=true)
+![image file](output.png)
 
 
 ### to do:
