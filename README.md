@@ -1,5 +1,6 @@
 ### Bike Rides
-map of the rolling average speed of some bike rides around berlin
+
+rolling average speed of some bike rides around Berlin displayed on a map
 
 input : ``.gpx`` and ``.csv`` files uploaded from my polar account
 
