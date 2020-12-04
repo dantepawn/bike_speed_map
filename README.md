@@ -8,4 +8,5 @@ input : ``.gpx`` and ``.csv`` files uploaded from my polar account
 
 
 ### to do:
-show who was drafting by monitoring difference in heartbeat ! 
+*1 show who was drafting by monitoring difference in heartbeat ! 
+*2 animated gifs
